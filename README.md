@@ -26,6 +26,11 @@ Repository ini berisi kumpulan hasil praktikum mata kuliah **Data Science** dari
 | 5 | Visualisasi Data | (https://github.com/ardianita/data-science-2026/blob/main/Pertemuan_5_Ardianita_Fauziyah_250401020128.ipynb) |
 | 6 | Persiapan Data | (https://github.com/ardianita/data-science-2026/blob/main/Pertemuan_6_Ardianita_Fauziyah_250401020128.ipynb) |
 | 7 | Regresi Linear | (https://github.com/ardianita/data-science-2026/blob/main/Pertemuan_7_Ardianita_Fauziyah_250401020128.ipynb) |
+| 9 | Algoritma Klasifikasi (Bagian 1) | (https://github.com/ardianita/data-science-2026/blob/main/Pertemuan_9_Ardianita_Fauziyah_250401020128.ipynb) |
+| 10 | Algoritma Klasifikasi (Bagian 2) | (https://github.com/ardianita/data-science-2026/blob/main/Pertemuan_10_Ardianita_Fauziyah_250401020128.ipynb) |
+| 11 | Unsupervised Learning (Clustering) | (https://github.com/ardianita/data-science-2026/blob/main/Pertemuan_11_Ardianita_Fauziyah_250401020128.ipynb) |
+| 12 | Asosiasi Data & Sistem Rekomendasi Dasar | (https://github.com/ardianita/data-science-2026/blob/main/Pertemuan_12_Ardianita_Fauziyah_250401020128.ipynb) |
+| 13 | Pengantar Deep Learning & NLP Dasar | (https://github.com/ardianita/data-science-2026/blob/main/Pertemuan_13_Ardianita_Fauziyah_250401020128.ipynb) |
 
 ---
 
@@ -59,4 +64,4 @@ Repository ini berisi kumpulan hasil praktikum mata kuliah **Data Science** dari
 
 ## Kesimpulan Pembelajaran Data Science (Pertemuan 1–7)
 
-Pada praktikum Pertemuan 1 hingga Pertemuan 7, saya mempelajari dasar-dasar Data Science dan Machine Learning, mulai dari pengolahan data menggunakan Python, pembersihan data, analisis data eksploratif (EDA), visualisasi data, preprocessing, hingga pembangunan model Regresi Linear. Melalui praktikum ini, saya memahami bahwa kualitas data dan proses preprocessing sangat memengaruhi hasil analisis serta performa model yang dibangun. Selain itu, visualisasi data membantu menemukan pola dan hubungan antarvariabel yang dapat dimanfaatkan dalam proses machine learning untuk menghasilkan prediksi yang lebih baik.
+Pada praktikum Pertemuan 1 hingga Pertemuan 13, saya mempelajari dasar-dasar Data Science dan Machine Learning, mulai dari pengolahan dan pembersihan data, EDA, visualisasi, preprocessing, hingga pembangunan dan evaluasi model. Saya juga mempelajari berbagai metode seperti Regresi Linear, Logistic Regression, Decision Tree, Random Forest, K-Means, sistem rekomendasi, Neural Network, dan analisis sentimen. Dari seluruh praktikum, saya memahami bahwa kualitas data, preprocessing, pemilihan algoritma, dan evaluasi model sangat berpengaruh terhadap hasil analisis dan performa model.
